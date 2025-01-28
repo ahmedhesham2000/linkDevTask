@@ -1,3 +1,4 @@
+# Project: MVVM Architecture with Cubit State Management and Dio for HTTP Requests
 
 ## Objective
 This project aims to evaluate the candidate's ability to:
