@@ -85,6 +85,13 @@ The application is built using Flutter and demonstrates the following key concep
 
 3. **State Management with Cubit**:
    - Observe how the UI updates based on state changes managed by Cubit.
+  
+---
+## Download the App
+
+### Android (APK) and Ios(IPA)
+[[Download](https://drive.google.com/drive/folders/1Xjh14qVRyPn3_wFbnY0X9jyTQ-0FlYsd?usp=sharing)
+
 
 ---
 
