@@ -85,6 +85,13 @@ The application is built using Flutter and demonstrates the following key concep
 
 3. **State Management with Cubit**:
    - Observe how the UI updates based on state changes managed by Cubit.
+  
+---
+## Download the App
+
+### Android (APK) and Ios(IPA)
+[[Download](https://drive.google.com/drive/folders/1Xjh14qVRyPn3_wFbnY0X9jyTQ-0FlYsd?usp=sharing)
+
 
 ---
 
@@ -100,9 +107,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any questions or feedback, please reach out to:
-- **Your Name**
-- **Email**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Ahmed Hesham**
+- **Email**: ahmed.hesham.elolimy@gmail.com
 
 ---
 
